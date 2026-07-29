@@ -26,7 +26,7 @@
         {
             "name": "Assistant UI",
             "slug": "assistant-ui",
-            "description": "Typescript/React Library for AI Chat\uD83D\uDCAC\uD83D\uDE80",
+            "description": "Typescript/React Library for AI Chat💬🚀",
             "categories": [
                 "Templates & Starters"
             ],
@@ -70,7 +70,7 @@
         {
             "name": "EasyFrontendHQ",
             "slug": "EasyFrontendHQ",
-            "description": "About\nFree Tailwind UI React JS Components - built to create landing pages and websites. Easyfrontend UI components are free and open-source. show your support and love, don't forget to give us a star \uD83C\uDF1F",
+            "description": "About\nFree Tailwind UI React JS Components - built to create landing pages and websites. Easyfrontend UI components are free and open-source. show your support and love, don't forget to give us a star 🌟",
             "categories": [
                 "Design & Style Resources"
             ],
@@ -601,7 +601,7 @@
         {
             "name": "kanpeki",
             "slug": "kanpeki",
-            "description": "\uD83C\uDF1F Accessible, flexible, mobile friendly, modern UI components.",
+            "description": "🌟 Accessible, flexible, mobile friendly, modern UI components.",
             "categories": [
                 "Libraries & Components"
             ],
@@ -1085,7 +1085,7 @@
         {
             "name": "Site Search",
             "slug": "sitesearch",
-            "description": "\uD83E\uDEC6 Opinionated search experiences for your search needs, powered by Algolia's Instant Search and AskAI",
+            "description": "🫆 Opinionated search experiences for your search needs, powered by Algolia's Instant Search and AskAI",
             "categories": [
                 "Plugins & Tools"
             ],
@@ -1107,7 +1107,7 @@
         {
             "name": "Web LLM Blocks",
             "slug": "web-llm-blocks",
-            "description": "\uD83E\uDEC6 Opinionated search experiences for your search needs, powered by Algolia's Instant Search and AskAI",
+            "description": "🫆 Opinionated search experiences for your search needs, powered by Algolia's Instant Search and AskAI",
             "categories": [
                 "Shadcn Blocks"
             ],
@@ -1300,6 +1300,28 @@
                 "star": 8445
             },
             "added_at": "2025-12-09",
+            "updated_at": ""
+        },
+        {
+            "name": "Payload Components",
+            "slug": "payload-components",
+            "description": "MIT registry and CLI for 67 typed Payload CMS blocks, installed as owned source with automated Payload wiring.",
+            "categories": [
+                "Shadcn Blocks"
+            ],
+            "links": {
+                "homepage": "https://www.payload-components.xyz/",
+                "repository": "https://github.com/Ducksss/payload-components"
+            },
+            "status": "active",
+            "author": {
+                "name": "Ducksss",
+                "github": "https://github.com/Ducksss"
+            },
+            "github": {
+                "star": 5
+            },
+            "added_at": "2026-07-29",
             "updated_at": ""
         }
     ]
